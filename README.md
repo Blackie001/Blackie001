@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Oulo Lameck</h1>
+<h1 align="center">Hi 👋, I'm Lameck Jefferson</h1>
 <h3 align="center">💻 Tech Enthusiast | 🎨 2D Animator | 🎶 Musician & Trainer</h3>
 
 ---
