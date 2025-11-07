@@ -70,5 +70,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+  ![BLACKIE001’s GitHub stats](https://github-readme-stats.vercel.app/api?username=BLACKIE001&show_icons=true&theme=radical)
   <img src="https://github-readme-stats.vercel.app/api?username=Oulo&Lameck&show_icons=true&theme=default" alt="GitHub Stats" />
  </p>
