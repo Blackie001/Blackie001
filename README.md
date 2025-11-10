@@ -56,6 +56,12 @@
 
 ---
 
+git add .
+git commit -m "Improved navbar design and link layout"
+git push
+
+
+
 ## 📫 Connect with Me
 <p>
   <a href="https://github.com/Blackie001/"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
