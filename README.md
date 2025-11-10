@@ -69,14 +69,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 💡
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BLACKIE001&show_icons=true&theme=radical" alt="Github Stats"/>
  </p>
 
-
-### 💡 GitHub Stats
-![BLACKIE001's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLACKIE001&show_icons=true&theme=radical)
 
 ### 🌱 Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BLACKIE001&theme=radical)
