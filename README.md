@@ -13,6 +13,18 @@
 
 ---
 
+### 💡 GitHub Stats
+![BLACKIE001's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLACKIE001&show_icons=true&theme=radical)
+
+### 🌱 Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BLACKIE001&theme=radical)
+
+### 🧩 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKIE001&layout=compact&theme=radical)
+
+
+
+
 ## 🛠️ Skills
 
 ### 💻 Tech & IT
