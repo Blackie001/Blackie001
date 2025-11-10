@@ -56,11 +56,6 @@
 
 ---
 
-git add .
-git commit -m "Improved navbar design and link layout"
-git push
-
-
 
 ## 📫 Connect with Me
 <p>
