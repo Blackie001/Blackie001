@@ -1,28 +1,44 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Lameck Jefferson</h1>
-<h3 align="center">💻 Tech Enthusiast | 🎨 2D Animator | 🎶 Musician & Trainer</h3>
+<p align="center">
+  <!-- Main Welcome Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00A0FF&center=true&vCenter=true&width=1000&lines=Welcome+to+Blackie001's+GitHub+Profile;Developer+%7C+Creator+%7C+Tech+Enthusiast;Always+Learning+Something+New">
+  
+ 
+<!-- <h3 align="center">💻 Tech Enthusiast | 🎨 2D Animator | 🎶 Musician & Trainer</h3> -->
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=F700FF&center=true&vCenter=true&width=1000&lines=Blackie001;Welcome+To+My+GitHub;Building%2C+Learning%2C+Growing)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&lines=Access+Granted...;Loading+Developer+Profile...;User%3A+Blackie001">
+</p>
 
 ---
 
 ## 🙋‍♂️ About Me
-- 💻 Skilled in **HTML, CSS, Networking, Hardware & Software trouble shooting and repaire**  
+Hi there! I'm a passionate developer who loves exploring new technologies and building creative digital solutions.  
+I enjoy solving real-world problems, learning continuously, and contributing to meaningful projects.
+
+- 💻 Skilled in **HTML5, CSS, Networking, Hardware & Software troubleshooting and repair**  
 - 📊 Proficient in **Microsoft Suite** (Word, Excel, PowerPoint, Publisher)  
-- 🎬 **2D Animator** passionate about creative and educational projects  
+- 🎬 **2D Animator** passionate about creative and educational projects
 - 🎶 **Music Trainer** (Vocals & Instruments – Piano, Brass, Drums, Guitar learner)  
-- 🚀 Growing in **Data Analysis & IT**  
+- 🚀 Growing in **Data Analysis & IT**
 
 ---
 
 ## 🛠️ Skills
 
-### 💻 Tech & IT
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+### 💻 Tech & IT 🌱
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+
 ![Networking](https://img.shields.io/badge/Networking-green?logo=cisco&logoColor=white)
 ![Hardware](https://img.shields.io/badge/PC%20Hardware-red?logo=windows&logoColor=white)
 ![Software](https://img.shields.io/badge/Software%20Repair-purple?logo=linux&logoColor=white)
 
-### 📊 Microsoft Suite
+### 📊 Microsoft Suite 💼
 ![Word](https://img.shields.io/badge/Word-2B579A?logo=microsoftword&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
@@ -41,7 +57,31 @@
 
 ---
 
+### 📫 **Frameworks & Libraries**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+---
+
+### 📘**Databases**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+
+---
+
+### 📘**Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
+---
+
 ## 📌 Featured Projects
+-  **Kenya Springs Limited** - https://kenyasprings.com/
+-  **Semaka Hardware** - https://semaka.co.ke/
+-  **Smart date Analyzer** - https://blackie001.github.io/Smart-Date-analyzer/
 - 🎬 **BlackToonz Animations** – Animating Bible stories for all ages  
 - 📊 **Excel Dashboards** – Data analysis & reporting tools  
 - 🎶 **Music Training Content** – Choir arrangements & instrumental demos  
@@ -70,15 +110,36 @@
 ---
 
 ## 📊 GitHub Stats 💡
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BLACKIE001&show_icons=true&theme=radical" alt="Github Stats"/>
- </p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Blackie001&show_icons=true&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=Blackie001&theme=tokyonight&no-frame=true&no-bg=true)
 
 
-### 🌱 Streak
+---
+
+## 🌱 Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BLACKIE001&theme=radical)
 
-### 🧩 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKIE001&layout=compact&theme=radical)
+---
 
- 
+## 🧩  Most Used Languages
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Blackie001&layout=compact&theme=tokyonight)
+
+# 🎉 Fun Fact
+I believe every great project begins with curiosity and a desire to create something unique.
+
+---
+
+## 🌊 Animated Footer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A0FF&height=120&section=footer"/>
+</p>
+
+
+
+
+
