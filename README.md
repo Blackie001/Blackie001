@@ -6,7 +6,7 @@
  
 <!-- <h3 align="center">💻 Tech Enthusiast | 🎨 2D Animator | 🎶 Musician & Trainer</h3> -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=F700FF&center=true&vCenter=true&width=1000&lines=Blackie001;Welcome+To+My+GitHub;Building%2C+Learning%2C+Growing)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=F700FF&center=true&vCenter=true&width=1000&lines=Blackie001;coding+is+the+way+to+go;Building%2C+Learning%2C+Growing)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&lines=Access+Granted...;Loading+Developer+Profile...;User%3A+Blackie001">
